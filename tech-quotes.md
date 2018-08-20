@@ -20,10 +20,6 @@
 
 > PR isn't the place to debate design.
 
-### Go
-
-> Log error or return it, not both.
-
 ### Interviews
 
 > Hire people who will tell you what to do instead of people who will do what you tell.

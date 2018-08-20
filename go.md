@@ -2,7 +2,8 @@
 
 ### Tips
 
-- Go' race detector doesn't catch all data races
+- Go's race detector doesn't catch all data races
+- Log error or return it, not both.
 
 ### Articles
 
