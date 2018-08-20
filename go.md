@@ -17,3 +17,8 @@
 ### Fun
 
 - [gopherize.me](https://gopherize.me/)
+
+### Quizzes
+
+- [Golang War 1](https://logpacker.com/blog/the-first-golang-war)
+- [Golang War 2](https://logpacker.com/blog/the-second-golang-war)
