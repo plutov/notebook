@@ -5,6 +5,11 @@
 - Go's race detector doesn't catch all data races
 - Log error or return it, not both.
 
+### Learn Go
+
+- [Practice Go: a collection of Go exercises](https://github.com/plutov/practice-go)
+- [Questions to estimate your Go level](https://github.com/logpacker/go-questions)
+
 ### Articles
 
 - [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up) - Dave Cheney

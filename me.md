@@ -3,9 +3,12 @@
 - [@pliutau](https://twitter.com/pliutau)
 - [Blog](https://pliutau.com)
 - [package main Youtube channel](https://www.youtube.com/packagemain)
-- [LinkedIn](https://www.linkedin.com/in/pltvs/)
+- [inkedin.com/in/pltvs](https://www.linkedin.com/in/pltvs/)
 - [Stackoverflow](https://stackoverflow.com/users/350294/pltvs)
 - [Hire me](https://pliutau.com/page/hire-me/)
+- [Buy me a coffee](https://www.buymeacoffee.com/packagemain)
+- [dev.to/plutov](https://dev.to/plutov)
+- [medium/@pliutau](https://medium.com/@pliutau)
 
 ## Software
 
@@ -15,3 +18,9 @@
 
 - [GopherCon Vietnam 2018 organizer](https://gophercon.vn/)
 - [Microservices with Go](https://pliutau.com/wizeline-academy-microservices-with-go/)
+
+## Go
+
+- [Practice Go: a collection of Go exercises](https://github.com/plutov/practice-go)
+- [Questions to estimate your Go level](https://github.com/logpacker/go-questions)
+- [Golang client for PayPal REST API](https://github.com/logpacker/PayPal-Go-SDK)
