@@ -15,6 +15,12 @@
 - [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up) - Dave Cheney
 - [Does the Go race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb) - Val Deleplace
 
+### Videos
+
+- [GopherVids](https://gophervids.appspot.com/)
+- [Singapore Gophers](https://www.youtube.com/channel/UCazkIMpjghmT8fugD1WF_DQ)
+- [JustForFunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+
 ### Mailing lists
 
 - [Golang Weekly](https://golangweekly.com/)
