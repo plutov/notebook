@@ -17,6 +17,7 @@
 
 ### Videos
 
+- [package main Youtube channel](https://www.youtube.com/packagemain)
 - [GopherVids](https://gophervids.appspot.com/)
 - [Singapore Gophers](https://www.youtube.com/channel/UCazkIMpjghmT8fugD1WF_DQ)
 - [JustForFunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)

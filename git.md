@@ -7,3 +7,7 @@
 ### Resources
 
 - [Git Ready](http://gitready.com/)
+
+### Articles
+
+- [Using different Git emails](https://pliutau.com/using-different-git-emails/)
