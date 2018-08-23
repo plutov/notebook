@@ -23,4 +23,5 @@
 
 - [Practice Go: a collection of Go exercises](https://github.com/plutov/practice-go)
 - [Questions to estimate your Go level](https://github.com/logpacker/go-questions)
-- [Golang client for PayPal REST API](https://github.com/logpacker/PayPal-Go-SDK)
+- [Go client for PayPal REST API](https://github.com/logpacker/PayPal-Go-SDK)
+- [wit.ai Go Client](https://github.com/plutov/wit.ai)

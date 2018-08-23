@@ -34,3 +34,8 @@
 
 - [Golang War 1](https://logpacker.com/blog/the-first-golang-war)
 - [Golang War 2](https://logpacker.com/blog/the-second-golang-war)
+
+### Packages
+
+- [wit.ai](https://github.com/plutov/wit.ai)
+- [Go client for PayPal REST API](https://github.com/logpacker/PayPal-Go-SDK)
