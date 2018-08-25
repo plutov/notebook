@@ -8,3 +8,7 @@
 - [Udemy Course - AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
 - [AWS Certified Developer - Associate Level Exam Blueprint](http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_developer_associate_blueprint.pdf)
 - [AWS Certified Developer – Associate Level Sample Exam Questions](http://d0.awsstatic.com/training-and-certification/docs/AWS_certified_developer_associate_examsample.pdf)
+
+### CI / CD
+
+- [Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
