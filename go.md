@@ -16,9 +16,16 @@
 - [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up) - Dave Cheney
 - [Does the Go race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb) - Val Deleplace
 
-### GopherCon
+### Community
 
 - [Go Conferences](https://github.com/golang/go/wiki/Conferences)
+- [GopherSource - an open-source adventure for gophers](https://gophersource.com/)
+- [Gophers Slack](https://gophers.slack.com/) ([request invitation](https://invite.slack.golangbridge.org/))
+- [Go forum](https://forum.golangbridge.org/)
+- [Go Study Group](https://gophersource.com/study-group/)
+- [Whomen Who Go](https://www.womenwhogo.org/)
+- [GoBridge](https://golangbridge.org/)
+- [GoUserGroups](https://github.com/golang/go/wiki/GoUserGroups)
 
 ### Videos
 
@@ -40,7 +47,7 @@
 - [Golang War 1](https://logpacker.com/blog/the-first-golang-war)
 - [Golang War 2](https://logpacker.com/blog/the-second-golang-war)
 
-### Packages
+### My packages
 
 - [wit.ai](https://github.com/plutov/wit.ai)
 - [Go client for PayPal REST API](https://github.com/logpacker/PayPal-Go-SDK)
