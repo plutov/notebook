@@ -4,6 +4,7 @@
 
 - Go's race detector doesn't catch all data races
 - Log error or return it, not both.
+- If your interface has only one function, append "-er" to the function name: `type Reader interface`.
 
 ### Learn Go
 
