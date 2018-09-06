@@ -37,3 +37,15 @@
 - Which of the following datatypes can be indexed in DynamoDB. String / Number / Boolean
 - What is maximum limit for the size of an item collection in DynamoDB? 10GB
 - What is the smallest amount of reserved capacity that can be purchased for DynamoDB? 100
+- What is the maximum size of an item in DynamoDB? 400KB
+- What is the limit to the number of characters for a topic name in sns? 256
+- When a subscriber subscribes to a topic in SNS, what is the time period available for confirmation? 3
+- How is the coordination between worker processes done in SWF? Write decider program
+- Of the 6 available sections on a CloudFormation template (Template Description Declaration, Template Format Version Declaration, Parameters, Resources, Mappings, Outputs), which is the only one required for a CloudFormation template to be accepted? Resources
+- In SWF what are the containers called for segregating application resources. Domains
+- The referencing function is referencing the instance type. From the parameters section of your CloudFormation template.
+- S3 bucket policies require a Principal be defined. true
+- You attempt to create a new S3 bucket "Demo-Bucket-1234-US-East-2-Production-Envrionment-12.25.14” in the US-EAST-2 region and the bucket creation fails. Why? The bucket name uses capital letters.
+- When using the Ref function in CloudFormation, what do we get back if we pass in the logical ID of an AWS::EC2::Instance object? The object's InstanceId
+- You run an ad-supported photo sharing website using S3 to serve photos to visitors of your site. At some point you find out that other sites have been linking to the photos on your site, causing loss to your business. What is an effective method to mitigate this? Remove public read access and use signed URLs with expiry dates.
+- You want to find out what AMIs are available for you to use in a given region. Which API call is most appropriate? DescribeImages
