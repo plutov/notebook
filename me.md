@@ -13,6 +13,8 @@
 ## Software
 
 - [cafeface.io - Coffee shop assistant based on facial recognition](https://cafeface.io)
+- [LogPacker - Cloud logs collector](https://logpacker.com/)
+- [Weelco - 360° videos](https://weelco.com/)
 
 ## Events
 

@@ -2,4 +2,5 @@
 
 ### Find Go jobs
 
-- [https://www.golangprojects.com/](Go/Golang jobs and developers)
+- [Go/Golang jobs and developers](https://www.golangprojects.com/)
+- [Leap](https://leap.ai/)

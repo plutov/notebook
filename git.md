@@ -7,6 +7,7 @@
 ### Resources
 
 - [Git Ready](http://gitready.com/)
+- [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
 
 ### Articles
 

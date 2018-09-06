@@ -7,3 +7,9 @@
 ### Tools
 
 - [jq](https://stedolan.github.io/jq/)
+
+### Watch Star Wars via Telnet
+
+```
+telnet towel.blinkenlights.nl
+```
