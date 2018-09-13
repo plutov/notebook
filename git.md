@@ -26,3 +26,7 @@ Put this into this file: `.github/pull_request_template.md`.
 #### Questions
 #### TODO
 ```
+
+### Github tips
+
+- To restore deleted repository you can send email to support@github.com and ask to restore a repository.
