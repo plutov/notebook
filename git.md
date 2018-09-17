@@ -7,7 +7,8 @@
 ### Resources
 
 - [Git Ready](http://gitready.com/)
-- [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
+- [Git Cheatsheet](https://www.git-tower.com/blog/git-cheat-sheet)
+- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
 ### Articles
 
