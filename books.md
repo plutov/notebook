@@ -6,6 +6,7 @@
 - [Learn Python The Hard Way](https://drive.google.com/file/d/1hLJ5uiWOSFZNNlIb1NdZe7xfQIu3JRQr/view?usp=sharing) - Zed Shaw
 - [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) - Gene Kim, Patrick Debois, John Willis, Jez Humble
 - [Writing An Interpreter In Go](https://interpreterbook.com/) - Thorsten Ball
+- [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201) - John Ousterhout
 
 ### Non-tech
 
