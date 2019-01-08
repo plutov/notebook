@@ -8,6 +8,10 @@
 
 - [jq](https://stedolan.github.io/jq/)
 
+### My dotfiles
+
+- [dotfiles](https://github.com/plutov/dotfiles)
+
 ### Watch Star Wars via Telnet
 
 ```

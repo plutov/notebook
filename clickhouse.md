@@ -3,6 +3,8 @@
 ## Resources
 
 - [Building Multi-Petabyte Data Warehouses with ClickHouse](https://www.percona.com/live/e17/sessions/building-multi-petabyte-data-warehouses-with-clickhouse)
+- [Graphite Monitoring](https://www.altinity.com/blog/2018/4/20/clickhouse-monitoring-with-graphite)
+- [Ultimate Helm Chart](https://github.com/plutov/clickhouse-helm)
 
 ## UI
 
