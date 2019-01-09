@@ -10,7 +10,9 @@
 
 ### Non-tech
 
+- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU)
+- [Radical Candor](https://www.radicalcandor.com/) - Sheryl Sandberg
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/) -  Gene Kim,  Kevin Behr, George Spafford
+- [https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) - Dale Carnegie
 - [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA) - Endy Weir
 - [The Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums) - Jack Kerouac
-- [Arch of Triumph](https://www.amazon.com/Arch-Triumph-Erich-Maria-Remarque/dp/0449912450) - Erich Maria Remarque
-- [Generation "P"](https://www.amazon.com/Generation-P-Viktor-Pelevin/dp/5264003718) - Viktor Pelevin
