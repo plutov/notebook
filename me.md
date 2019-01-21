@@ -24,3 +24,4 @@
 ## Other
 
 - [My dotfiles](https://github.com/plutov/dotfiles)
+- [awesome-functions](https://github.com/plutov/awesome-functions)
