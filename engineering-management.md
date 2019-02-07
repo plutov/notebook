@@ -10,3 +10,4 @@
 
 - [1-on-1s](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 - [Welcome, new managers!](https://www.officevibe.com/complete-guide-new-manager)
+- [Data-driven Engineering Management](https://www.gitprime.com/content/gitprime-data-driven-management.original.pdf)
