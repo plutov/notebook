@@ -13,6 +13,7 @@
 - [Data-driven Engineering Management](https://www.gitprime.com/content/gitprime-data-driven-management.original.pdf)
 - [Coaching Tools – The One on One](https://svpg.com/coaching-tools-the-one-on-one/)
 - [How to begin the invisible work of change management](https://qz.com/work/1542486/change-management-advice-from-the-trenches/)
+- [Designing a Performance Management System from Scratch](https://blog.gitprime.com/designing-performance-management-systems/)
 
 ### Resources
 
