@@ -4,9 +4,13 @@
 
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
-### Coding challenges
+### Example Coding challenges
 
-- [12traits Code Challenges](https://github.com/12traits/coding-challenges)
+- [12traits Coding Challenges](https://github.com/12traits/coding-challenges)
+
+### Articles
+
+- [What do the best interviewers have in common?](http://blog.interviewing.io/what-do-the-best-interviewers-have-in-common-we-looked-at-thousands-of-real-interviews-to-find-out/)
 
 ### Format
 
