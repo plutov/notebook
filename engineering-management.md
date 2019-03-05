@@ -15,6 +15,10 @@
 - [How to begin the invisible work of change management](https://qz.com/work/1542486/change-management-advice-from-the-trenches/)
 - [Designing a Performance Management System from Scratch](https://blog.gitprime.com/designing-performance-management-systems/)
 
+### Onboarding
+
+- [3 Impactful Ways to Improve Your Onboarding Process — That Don't Take That Much Time](https://blog.coleadership.com/3-impactful-ways-to-improve-your-onboarding-process-that-dont-take-that-much-time/)
+
 ### Resources
 
 - [Engineering Competency Matrix](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/htmlview)
