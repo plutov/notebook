@@ -14,6 +14,7 @@
 - [Coaching Tools – The One on One](https://svpg.com/coaching-tools-the-one-on-one/)
 - [How to begin the invisible work of change management](https://qz.com/work/1542486/change-management-advice-from-the-trenches/)
 - [Designing a Performance Management System from Scratch](https://blog.gitprime.com/designing-performance-management-systems/)
+- [Four Startup Engineering Killers](https://hackernoon.com/four-startup-engineering-killers-1fb5c498391d)
 
 ### Onboarding
 
