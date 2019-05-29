@@ -43,6 +43,7 @@
 ### Mailing lists
 
 - [Golang Weekly](https://golangweekly.com/)
+- [The Go Gazette](http://www.go-gazette.com/)
 
 ### Fun
 

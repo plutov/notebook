@@ -7,6 +7,7 @@
 - [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) - Gene Kim, Patrick Debois, John Willis, Jez Humble
 - [Writing An Interpreter In Go](https://interpreterbook.com/) - Thorsten Ball
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201) - John Ousterhout
+- [An Elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/)
 
 ### Non-tech
 

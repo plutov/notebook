@@ -2,6 +2,7 @@
 
 ### Books
 
+- [An Elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/)
 - [Radical Candor](https://www.radicalcandor.com/) - Sheryl Sandberg
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/) -  Gene Kim,  Kevin Behr, George Spafford
 - [https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) - Dale Carnegie
