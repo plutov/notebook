@@ -13,6 +13,7 @@
 ### Articles
 
 - [Using different Git emails](https://pliutau.com/using-different-git-emails/)
+- [Github issue etiquette](https://www.defmacro.org/2013/04/03/issue-etiquette.html)
 
 ### Ultimate Pull Request format
 
