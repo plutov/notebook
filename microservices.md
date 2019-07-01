@@ -3,7 +3,8 @@
 ### Resources
 
 - [microservices.io](https://microservices.io)
+- [Netflix API gateway](http://techblog.netflix.com/2013/01/optimizing-netflix-api.html)
 
-### Examples
+### Toold
 
-- [Microservices with Golang](https://github.com/wizelineacademy/GoWorkshop)
+- [Zuul](https://github.com/Netflix/zuul)
