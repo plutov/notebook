@@ -14,6 +14,9 @@
 - [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU)
 - [Radical Candor](https://www.radicalcandor.com/) - Sheryl Sandberg
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/) -  Gene Kim,  Kevin Behr, George Spafford
-- [https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) - Dale Carnegie
+- [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) - Jason Fried, Heinemeier Hansson David
+- [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) - Dale Carnegie
+- [Founders at Work: Stories of Startups' Early Days](https://www.amazon.de/gp/product/1430210788) - Jessica Livingston
+- [Trillion Dollar Coach](https://www.amazon.de/gp/product/1473675979/) - Eric Schmidt, Jonathan Rosenberg, Alan Eagle
 - [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA) - Endy Weir
 - [The Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums) - Jack Kerouac
