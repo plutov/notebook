@@ -8,6 +8,9 @@
 - [Writing An Interpreter In Go](https://interpreterbook.com/) - Thorsten Ball
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201) - John Ousterhout
 - [An Elegant Puzzle: Systems of Eng Management](https://lethain.com/elegant-puzzle/)
+- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+- [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
+- [The Lean Startup](http://theleanstartup.com/)
 
 ### Non-tech
 
