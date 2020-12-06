@@ -11,6 +11,7 @@
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
 - [The Lean Startup](http://theleanstartup.com/)
+- [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
 
 ### Non-tech
 
