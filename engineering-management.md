@@ -25,6 +25,7 @@
 ### Resources
 
 - [Engineering Competency Matrix](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/htmlview)
+- [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)
 
 ### Tools
 
